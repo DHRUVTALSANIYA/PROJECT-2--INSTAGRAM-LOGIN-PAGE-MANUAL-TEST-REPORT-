@@ -38,3 +38,4 @@ Conclusion
 The report helps identify functional, UI, and security issues in the Instagram login page. Each test scenario includes a detailed description, execution steps, expected vs. actual results, and test data. Suggestions are provided for necessary improvements.
 
 📌 Check the test report for details and contribute!
+LINK : https://docs.google.com/spreadsheets/d/1Xm6HIbDCQSswGpnpyHjNMCmbUiaNxnDoRu58J3w_5E8/edit?usp=sharing
