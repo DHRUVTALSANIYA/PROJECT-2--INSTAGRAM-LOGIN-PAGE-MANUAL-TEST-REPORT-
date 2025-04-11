@@ -1,4 +1,4 @@
-# PROJECT-2--INSTAGRAM-LOGIN-PAGE-MANUAL-TEST-REPORT-
+# PROJECT-2--INSTAGRAM-LOGIN-PAGE-MANUAL-TEST-REPORT
 Instagram Login Page - Manual Testing Report
 Overview
 This repository contains a detailed manual testing report for the Instagram Login Page, created by Dhruv Talsaniya. The report evaluates the login functionality, including successful logins, failed attempts, Facebook login, and password recovery, with documented test cases and bug reports.
